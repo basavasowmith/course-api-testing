@@ -1,7 +1,7 @@
 import pytest
 
 
-@pytest.mark.classlogin
+@pytest.mark.sowmith
 class TestCheckout(object):
     def test_checkout_as_guest(self):
         print("checkout as a guest")
